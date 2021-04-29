@@ -1,4 +1,4 @@
-tower-example
+awx-example
 =============
 
-Ansible Tower Example Playbooks
+Ansible AWX Example Playbook
