@@ -1,5 +1,6 @@
 ---
 - name: Hello World!
+  gather_facts: false
   hosts: all
  
   tasks:
